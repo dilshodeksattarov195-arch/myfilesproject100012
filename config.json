@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsdpdate",
+        "uuid": 36276,
+        "checksum": "2svqfb"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
